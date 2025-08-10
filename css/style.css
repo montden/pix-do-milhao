@@ -35,11 +35,11 @@ body {
     border: none;
     font-size: 24px;
     cursor: pointer;
-    color: #007BFF;
+    color: #555759;
 }
 
 .menu-button:hover {
-    color: #007BFF; /* Azul no hover */
+    color: #636669; /* Azul no hover */
 }
 
 .container-principal {
@@ -117,7 +117,7 @@ body {
     color: black;
     font-size: 0.9rem;
     font-weight: 600;
-    background-color: #ffffff;
+    background-color: #736f6f;
     border-radius: 0.2rem;
     padding: 0.4rem;
     line-height: 1rem;
