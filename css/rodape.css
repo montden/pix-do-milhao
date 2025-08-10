@@ -1,7 +1,7 @@
 .rodape {
     margin-top: 100px !important;
     padding: 1.5rem 0.5rem;
-    background-color: ##808080;
+    background-color: #808080;
 }
 
 IMG.logo-rodape {
@@ -77,4 +77,10 @@ IMG.logo-rodape {
         margin-top: 10px !important;
     }
 
+}
+html, body {
+    background-color: #808080 !important;
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }

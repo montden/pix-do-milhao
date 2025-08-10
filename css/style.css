@@ -1319,3 +1319,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0ea5e9",endCo
     }
     
 }
+html, body {
+    background-color: #808080 !important;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
